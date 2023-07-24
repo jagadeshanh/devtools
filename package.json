@@ -1,0 +1,24 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "An electron app for daily dev tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadeshanh/devtools.git"
+  },
+  "keywords": [
+    "devtools",
+    "dev",
+    "daily"
+  ],
+  "author": "jagadeshanh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagadeshanh/devtools/issues"
+  },
+  "homepage": "https://github.com/jagadeshanh/devtools#readme"
+}
